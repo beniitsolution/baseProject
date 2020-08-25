@@ -6,4 +6,5 @@ Generated with:
 npm init -y
 npm install -g @angular/cli
 ng new basic-angular-app
+ng add @angular/material
 ```
