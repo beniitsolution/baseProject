@@ -1,6 +1,9 @@
 # baseProject
+Simple package with React and Webpack installed.
 
-generated with:
+Generated with:
 ```
-npx create-react-app basic-react-app
+npm init -y
+npm install react react-dom --save
+npm install webpack webpack-dev-server webpack-cli --save
 ```
